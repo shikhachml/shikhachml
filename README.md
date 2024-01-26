@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Shikha Chamoli
-- 👀 I’m interested in data engineering, Python, AWS 
-- 🌱 Currently crafting tutorials on: Data engineering utilizing Python, AWS, and pySpark.
+- 👀 I’m a data engineer and work extensively in AWS, Python, PySpark 
+- 🌱 Currently crafting tutorials on: Data engineering utilizing Python, AWS, and PySpark.
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/shikhachm/
--                      Email: Shikhachml@gmail.com 
-- 😄 Pronouns: She/Her
+                      Medium: https://medium.com/@shikhachml
+-                     Email: Shikhachml@gmail.com 
 - ⚡ Fun fact: Beyond the world of data, I find joy in biking, yoga & reading.
 
 <!---
